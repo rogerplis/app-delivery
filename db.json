@@ -1,0 +1,117 @@
+{
+  "restaurants": [
+    {
+        "id": "1",
+        "name": "KFC",
+        "image": "https://logos-world.net/wp-content/uploads/2020/04/KFC-Logo.png",
+        "cozinha": "Fast Food - Frango Frito"
+    },
+    {
+        "id": "2",
+        "name": "McDonald's",
+        "image": "https://logos-world.net/wp-content/uploads/2020/04/McDonalds-Logo.png",
+        "cozinha": "Fast Food - Hamburguer"
+    },
+    {
+        "id": "3",
+        "name": "Burger King",
+        "image": "https://logos-world.net/wp-content/uploads/2020/04/Burger-King-Logo.png",
+        "cozinha": "Fast Food - Hamburguer"
+    },
+    {
+        "id": "4",
+        "name": "Subway",
+        "image": "https://therockbury.com/wp-content/uploads/2014/03/subway-logo.jpg",
+        "cozinha": "Fast Food - Sanduíches"
+    },
+    {
+        "id": "5",
+        "name": "Starbucks",
+        "image": "https://seeklogo.com/images/S/starbucks-logo-90311F6903-seeklogo.com.png",
+        "cozinha": "Cafeteria"
+    },
+    {
+        "id": "6",
+        "name": "Pizza Hut",
+        "image": "https://www.valuecabs.co.uk/wp-content/uploads/2015/07/pizzahut.png",
+        "cozinha": "Pizzaria"
+    },
+    {
+        "id": "7",
+        "name": "Domino's Pizza",
+        "image": "https://i.pinimg.com/originals/50/ca/58/50ca580966692fc5fe1e242205534fe0.png",
+        "cozinha": "Pizzaria"
+    },
+    {
+        "id": "8",
+        "name": "Taco Bell",
+        "image": "https://shopsquareone.com/wp-content/uploads/2021/09/35920863f8f3b0cfe798866012ca1bca7d3f926c.png",
+        "cozinha": "Fast Food - Mexicana"
+    },
+    {
+        "id": "9",
+        "name": "Dunkin'",
+        "image": "https://www.kaiserman.com/wp-content/uploads/2015/09/dunkin-donuts-logo-wallpaper.jpg",
+        "cozinha": "Cafeteria"
+    },
+    {
+        "id": "10",
+        "name": "Chick-fil-A",
+        "image": "https://i.pinimg.com/originals/53/2e/60/532e602385898d04b2e85f1396bdd6cd.png",
+        "cozinha": "Fast Food - Frango Frito"
+    }
+],
+  "foods": [
+    { 
+      "id": "1", 
+      "name": "Frango assado", 
+      "price": 39.90,
+      "time": "50-60 min",
+      "delivery": 5.99,
+      "rating": 4.8,
+      "image": "https://i.imgur.com/CEVUdju.png",
+      "restaurantId": "1"
+
+    },
+    { 
+      "id": "2", 
+      "name": "Marmita fit", 
+      "price": 29,
+      "time": "30-40 min",
+      "delivery": 2.99,
+      "rating": 4.9,
+      "image": "https://i.imgur.com/uXRuDFD.png",
+      "restaurantId": "6"
+    },
+    { 
+      "id": "3", 
+      "name": "Burguer Dev", 
+      "price": 40,
+      "time": "50-60 min",
+      "delivery": 5.99,
+      "rating": 4.5,
+      "image": "https://i.imgur.com/O5c3lyU.png",
+      "restaurantId": "5"
+    },
+    { 
+      "id": "4", 
+      "name": "Picanha Grill", 
+      "price": 36,
+      "time": "50-60 min",
+      "delivery": 5.99,
+      "rating": 4.4,
+      "image": "https://i.imgur.com/0UjG3wk.png",
+      "restaurantId": "3"
+    },
+    { 
+      "id": "5", 
+      "name": "Açai 300ml", 
+      "price": 20,
+      "time": "20-30 min",
+      "delivery": 2.99,
+      "rating": 4.4,
+      "image": "https://i.imgur.com/BaUUCkc.png",
+      "restaurantId": "3"
+    }
+  ]
+}
